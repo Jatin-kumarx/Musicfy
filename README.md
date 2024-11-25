@@ -20,8 +20,7 @@ Start by cloning the project repository to your local machine.
 2. Run the following command to clone the repository:
 
    ```bash
-   git clone https://github.com/your-username/your-repository-name.git
-
+   git clone https://github.com/Jatin-kumarx/Musicfy.git
 ## 2. Install Dependencies
 Once you've cloned the repository and navigated into the project folder, you need to install the necessary dependencies.
 
