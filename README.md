@@ -41,10 +41,10 @@ After the dependencies are installed, you can run the development server to star
 
 For npm:
 
-    npm start
+    npm run dev
 
 For Yarn:
 
-    yarn start
+    yarn run dev
 
 This will start the server and open the React application in your default web browser.
