@@ -1,6 +1,6 @@
-# React Project Setup Guide
+# Musicfy Setup Guide
 
-This guide will walk you through the steps to clone the repository and run the React project on your local machine.
+This guide will walk you through the steps to clone the repository and run the Musicfy on your local machine.
 
 ## Prerequisites
 
